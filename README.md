@@ -1,2 +1,2 @@
 # issue
-グローバルな issue
+グローバルな issue は、このリポジトリの issue へ。
